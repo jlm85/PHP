@@ -1,1 +1,1 @@
-{"version":1,"defects":{"FirstTest::testSum":3,"FirstTest::testMultiplicacion":3},"times":{"FirstTest::testSum":0.003,"FirstTest::testMultiplicacion":0}}
+{"version":1,"defects":{"FirstTest::testSum":3,"FirstTest::testMultiplicacion":3,"FirstTest::testResta":3},"times":{"FirstTest::testSum":0.003,"FirstTest::testMultiplicacion":0,"FirstTest::testResta":0.001}}
