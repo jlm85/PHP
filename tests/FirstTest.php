@@ -21,6 +21,6 @@ class FirstTest extends TestCase
     public function testResta()
     {
         $c = new Calculator();
-        $this->assertEquals(0,$c->resta(3,2));
+        $this->assertEquals(1,$c->resta(3,2));
     }
 }
