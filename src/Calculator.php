@@ -14,4 +14,8 @@ class Calculator
         return $a*$b;
     }
 
+    public function resta($a,$b)
+    {
+        return $a-$b;
+    }
 }
